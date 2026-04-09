@@ -1,0 +1,11 @@
+aiogram
+beautifulsoup4
+aiohttp
+aiosqlite
+python-dotenv
+requests
+lxml
+fake-useragent
+db-sqlite3
+APScheduler
+google-genai
