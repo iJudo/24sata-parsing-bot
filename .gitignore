@@ -4,3 +4,4 @@ news.sqlite3
 __pycache__/
 *.pyc
 .qodo/
+.idea/

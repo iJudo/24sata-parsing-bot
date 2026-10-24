@@ -36,7 +36,7 @@ async def main():
 
                 link = article.find("a").get("href")
                 insert_news(image_url, title, link, description)
-                await asyncio.sleep(4)
+                await asyncio.sleep(1)
 
 if __name__ == "__main__":
     asyncio.run(main())
