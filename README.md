@@ -6,21 +6,6 @@ and deliver them to users on demand or via scheduled background updates.
 
 ---
 
-##  Table of Contents
-
-- [Key Features](#-key-features)
-- [Tech Stack](#-tech-stack)
-- [Project Architecture & File Structure](#-project-architecture--file-structure)
-- [Database Schema](#-database-schema)
-- [Prerequisites](#-prerequisites)
-- [Installation & Setup](#-installation--setup)
-- [Configuration (.env)](#-configuration-env)
-- [Running the Bot](#-running-the-bot)
-- [Bot Commands & Usage](#-bot-commands--usage)
-- [License](#-license)
-
----
-
 ##  Key Features
 
 * **Automated Web Scraping:** Pulls the latest news articles from 24sata.hr using `BeautifulSoup` and `lxml`. Incorporates `fake-useragent` to rotate HTTP headers and bypass basic anti-scraping blocks.
